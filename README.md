@@ -4,4 +4,4 @@ Unit conversions
 
 # Installation
 
-`npm install --save in-utils`
+`npm install --save inan-utils`
