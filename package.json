@@ -1,7 +1,7 @@
 {
-  "name": "inan-utils",
-  "version": "1.0.1",
-  "description": "Unit conversions",
+  "name": "in-utils",
+  "version": "1.0.2",
+  "description": "Inan Utils",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/overturex/in-utils.git"
   },
-  "keywords": [],
+  "keywords": [
+    "utils"
+  ],
   "author": "Inan Kaymaz",
   "license": "ISC",
   "bugs": {
